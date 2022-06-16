@@ -1,0 +1,78 @@
+body{
+    background-color:darkcyan;
+    width: 1000px;
+    margin: auto;
+}
+
+header{
+    background-color: aliceblue;
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    text-align:center;
+    vertical-align: middle;
+}
+
+footer{
+
+    background-color:aliceblue;
+    height: 60px;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+    vertical-align: middle;
+
+}
+
+h1{
+    font-style: Arial;
+    font-size: 40px;
+    font-weight: bold;
+    color:darkcyan;
+    margin-top: 15px;
+    text-align: center;
+}
+
+h6{
+
+    font-style: Arial;
+    font-size: 20px;
+    font-weight: bold;
+    color:darkcyan;
+    margin-top: 5px;
+    text-align: center;
+}
+
+h2{
+    
+    font-style: Tahoma;
+    font-size: 25px;
+    font-weight: bold;
+    color:aqua;
+    text-align: center;
+    
+}
+
+li{
+    
+    font-style: Tahoma;
+    font-size: 25px;
+    color:antiquewhite;
+    
+}
+
+#artistName{
+    
+    font-style:Tahoma;
+    font-size: 40px;
+    font-weight: bold;
+    color:antiquewhite;
+    text-align: center;
+    
+}
